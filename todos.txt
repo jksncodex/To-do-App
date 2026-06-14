@@ -7,3 +7,4 @@ run
 buy a camera
 print film
 eat eggs
+help
