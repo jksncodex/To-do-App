@@ -2,9 +2,6 @@ train
 code
 write
 play chess
-update OS
-run
-buy a camera
-print film
-eat eggs
-help
+and at last
+goodbye Miimii
+continue coding
