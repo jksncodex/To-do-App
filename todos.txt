@@ -5,3 +5,4 @@ play chess
 and at last
 goodbye Miimii
 continue coding
+do all the smaller projects
